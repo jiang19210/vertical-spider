@@ -1,7 +1,6 @@
 {
   "name": "vertical-spider",
   "version": "0.0.0",
-  "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -22,5 +21,9 @@
   "keywords": [
     "spider",
     "爬虫"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiang19210/vertical-spider"
+  }
 }
