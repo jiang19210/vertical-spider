@@ -19,8 +19,6 @@ BulldozerC.prototype.withProxy = function (callback, handlerContext) {
 var bc = new BulldozerC();
 
 function Dianping_task() {
-    global.serverhost = '127.0.0.1';   //服务端地址
-    global.serverport = '9966';        //服务端接口
     global.proxymodel = 'dynamic';
     events.EventEmitter.call(this);
     var prototypes = ['first', 'detailUrl'];//注册的函数事件
