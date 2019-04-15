@@ -13,7 +13,7 @@
     "mysql": "2.15.0",
     "node-uuid": "1.4.8",
     "redis": "2.6.2",
-    "http-clientp": "1.0.12",
+    "http-clientp": "1.0.15",
     "iconv-lite": "0.4.13",
     "moment": "2.16.0",
     "cheerio": "1.0.0-rc.2"
