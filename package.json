@@ -1,6 +1,6 @@
 {
   "name": "vertical-spider",
-  "version": "0.0.0",
+  "version": "0.0.01",
   "scripts": {
     "start": "node ./bin/www"
   },
