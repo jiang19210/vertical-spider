@@ -13,7 +13,7 @@
     "iconv-lite": "0.4.13",
     "ioredis": "3.2.2",
     "jsontosql2": "0.0.5",
-    "moment": "2.16.0",
+    "moment": "2.29.2",
     "mongodb": "2.2.10",
     "mysql": "2.15.0",
     "node-uuid": "1.4.8",
